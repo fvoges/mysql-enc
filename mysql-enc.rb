@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
-
+# Author: Federico Voges
+# License: Apache 2.0
+# Project URL: https://github.com/fvoges/mysql-enc
 
 # for quick debugging
 #require 'pp'
