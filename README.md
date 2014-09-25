@@ -2,7 +2,12 @@
 
 Simple mySQL ENC script for Puppet.
 
-There's not much in the form of error handling. 
+There's not much in the form of error handling.
+
+
+How to add this script to your Puppet Master configuration:
+
+https://docs.puppetlabs.com/guides/external_nodes.html#connecting-an-enc
 
 ##Requirements##
 
